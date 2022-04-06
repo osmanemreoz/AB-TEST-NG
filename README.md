@@ -1,4 +1,4 @@
-# AB-TEST-NG
+# AB_TESTING
 Facebook kısa süre önce mevcut "maximumbidding" adı verilen teklif verme türüne alternatif
 olarak yeni bir teklif türü olan "average bidding"’i tanıttı. Müşterilerimizden biri olan bombabomba.com,
 bu yeni özelliği test etmeye karar verdi ve averagebidding'in maximumbidding'den daha fazla dönüşüm
